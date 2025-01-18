@@ -128,11 +128,13 @@ body {
     .search input {
         height: 45px;
         font-size: 14px;
+        width:100%;
     }
 
     .search button {
         width: 45px;
         height: 45px;
+        
     }
 
     .weather-icon {
